@@ -1,0 +1,16 @@
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="static/js/bootstrap.min.js"></script>
+<div class="row">
+	<div class="col-lg-2">
+		<div class="well">
+			<img src="/static/logo.jpeg" class="img-circle" height="150" width="150" align="center">
+			<h3 align="center">Mission Site</h3>
+			<ul class="list-group" align="center">
+  				<li class="list-group-item">Sam Clinard</li>
+  				<li class="list-group-item">Vanessa Moses</li>
+  				<li class="list-group-item">Matthew Kramer</li>
+  				<li class="list-group-item">George Denny</li>
+			</ul>
+		</div>
+	</div>
+	<div class="col-lg-10">
