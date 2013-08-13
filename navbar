@@ -1,16 +1,7 @@
 <div class="navbar navbar-inverse">
-	<a class="navbar-brand" href="/">IceBridge</a>
+	<a class="navbar-brand" href="/">MISSION NAME</a>
 	<ul class="nav navbar-nav">
 		<li><a href="home">Home</a></li>
-    	<li><a href="outreach">Education/Outreach</a></li>
-    	<li><a href="mult">Multimedia</a></li>
-    	<li><a href="news">News</a></li>
-    	<li><a href="participate">Participate</a></li>
-    	<li><a href="payload">Payload</a></li>
-    	<li><a href="platform">Platforms</a></li>
-    	<li><a href="program">Program</a></li>
-    	<li><a href="science">Science</a></li>
-    	<li><a href="tmatrix">Tracability Matrix</a></li>
   	</ul>
-  	<p class="navbar-text pull-right">Created by Team October Sky</p>
+  	<p class="navbar-text pull-right">Created by TEAM NAME HERE</p>
 </div>
