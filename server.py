@@ -15,7 +15,7 @@ class MainRequestHandler(tornado.web.RequestHandler):
 		content = open(page + ".html").read()
 		navbar.findAll('a', href=filen)[0].parent['class'] = 'active'
 		#change here
-		shell = "<html><head><title>"DISCICE-AQ: " + page + "</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><!-- Bootstrap --><link href=\"static/css/bootstrap.min.css\" rel=\"stylesheet\" media=\"screen\"></head><body>"
+		shell = "<html><head><title>DISCICE-AQ: " + page + "</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><!-- Bootstrap --><link href=\"static/css/bootstrap.min.css\" rel=\"stylesheet\" media=\"screen\"></head><body>"
 		sidebar = open("sidebar").read()
 		fullbody = str(navbar) + sidebar + str(content)
 		fullpage = shell + fullbody + "</div></div></body></html>"
