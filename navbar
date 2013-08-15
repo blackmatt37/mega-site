@@ -1,5 +1,5 @@
 <div class="navbar navbar-inverse">
-	<a class="navbar-brand" href="/">DISCICE-AQ</a>
+	<a class="navbar-brand" href="/">DISCIce-AQ</a>
 	<ul class="nav navbar-nav">
 		<li><a href="home">Home</a></li>
 		<li><a href="outreach">Education/Outreach Plan</a></li>
@@ -9,5 +9,5 @@
 		<li><a href="science">Science</a></li>
 		<li><a href="tmatrix">Traceability Matrix</a></li>
   	</ul>
-  	<p class="navbar-text pull-right">Created by Team (SOR)2</p>
+  	<p class="navbar-text pull-right">Created by Team (SOR)²</p>
 </div>

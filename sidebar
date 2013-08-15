@@ -4,7 +4,7 @@
 	<div class="col-lg-2">
 		<div class="well">
 			<img src = "static/logo.jpg" class="img-circle" height="150" width="150" align="center">
-			<h3 align="center">DISCICE-AQ Mission Site</h3>
+			<h3 align="center">DISCIce-AQ</h3>
 			<h3 align="center">Mission Site</h3>
             <ul class="list-group" align="center">
                 <li class="list-group-item">Sam Clinard</li>
