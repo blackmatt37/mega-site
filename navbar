@@ -1,7 +1,13 @@
 <div class="navbar navbar-inverse">
-	<a class="navbar-brand" href="/">MISSION NAME</a>
+	<a class="navbar-brand" href="/">DISCICE-AQ</a>
 	<ul class="nav navbar-nav">
 		<li><a href="home">Home</a></li>
+		<li><a href="outreach">Education/Outreach Plan</a></li>
+		<li><a href="news">News</a></li>
+		<li><a href="payload">Payload</a></li>
+		<li><a href="platform">Platform</a></li>
+		<li><a href="science">Science</a></li>
+		<li><a href="tmatrix">Traceability Matrix</a></li>
   	</ul>
-  	<p class="navbar-text pull-right">Created by TEAM NAME HERE</p>
+  	<p class="navbar-text pull-right">Created by Team (SOR)2</p>
 </div>
